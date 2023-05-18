@@ -1,1 +1,2 @@
-# ADS_CPSC_6300
+Conducted in-depth research on text vectorization methods and machine learning algorithms suitable for sentiment analysis and rating prediction. Utilized pre-trained word embeddings and vectorization techniques such as Count Vectorizer, TfidfVectorizer, Word2Vec, Glove, and BERT, and evaluated models such as Convolutional Neural Network, Gradient Boosting Classifier, Decision Tree Classifier, and Random Forest Classifier for accurate predictions.
+
